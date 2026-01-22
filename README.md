@@ -17,7 +17,7 @@
 ### 1. 安装依赖
 
 ```bash
-pip install pandas tabulate openai pydantic
+pip install -r requirements.txt
 ```
 
 ### 2. 配置 API 凭证
